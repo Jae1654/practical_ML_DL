@@ -1,1 +1,9 @@
-/env
+## Ignore everything
+*
+
+## Except Jupyter Notebook files
+!*.ipynb
+
+## Also ignore specific directories
+/env/
+/datasets/
